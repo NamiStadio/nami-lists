@@ -1,5 +1,7 @@
 ![logo](https://github.com/NamiStudio/nami-lists/blob/master/logo/logo.png)
 
+**已经迁移到oschina**
+
 [TOC]
 
 ## Studio 学习志
